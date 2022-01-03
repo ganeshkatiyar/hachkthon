@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="257.015" tests="57" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\dell\Downloads\HACKATHON\InterestAmountForCurrentYear-EMICalculator\InterestAmountForCurrentYear-EMICalculator"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\dell\Downloads\HACKATHON\InterestAmountForCurrentYear-EMICalculator\InterestAmountForCurrentYear-EMICalculator"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\dell\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf14097155077445112796.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-11.0.10/bin/server;C:/Program Files/Java/jdk-11.0.10/bin;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.10\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\System32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\dell"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="dell"/>
+    <property name="java.class.path" value="C:\Users\dell\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20210129-0849\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.10"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\dell\Downloads\HACKATHON\InterestAmountForCurrentYear-EMICalculator\InterestAmountForCurrentYear-EMICalculator\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="openBrowsertestCase" classname="com.InterestAmount.Testcases.CarLoanTestCases" time="12.529">
+    <failure message="unknown error: net::ERR_INTERNET_DISCONNECTED&#10;  (Session info: chrome=90.0.4430.72)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-JBAUR5J&apos;, ip: &apos;127.0.0.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.10&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 0c5277a3843276cd7cee8bfb89d8b47b" type="java.lang.AssertionError">java.lang.AssertionError: 
+unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=90.0.4430.72)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-JBAUR5J', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c5277a3843276cd7cee8bfb89d8b47b
+	at com.InterestAmount.Testcases.CarLoanTestCases.openBrowsertestCase(CarLoanTestCases.java:25)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 30224
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Apr 19, 2021 4:38:53 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="carEMIFormtestCase" classname="com.InterestAmount.Testcases.CarLoanTestCases" time="34.538"/>
+  <testcase name="getdatatestcase" classname="com.InterestAmount.Testcases.CarLoanTestCases" time="1.562"/>
+  <testcase name="closetestcase" classname="com.InterestAmount.Testcases.CarLoanTestCases" time="0.566"/>
+  <testcase name="endReportestcase" classname="com.InterestAmount.Testcases.CarLoanTestCases" time="1.154"/>
+  <testcase name="testopenBrowser" classname="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases" time="19.993"/>
+  <testcase name="testHomeEmi" classname="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases" time="3.079"/>
+  <testcase name="testdataexport" classname="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases" time="9.497"/>
+  <testcase name="close" classname="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases" time="4.168"/>
+  <testcase name="endReport" classname="com.InterestAmount.Testcases.HomeLoanCalculatorTestCases" time="0.238"/>
+  <testcase name="testopenBrowsertestCase" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="17.256"/>
+  <testcase name="testloanemicalcnavigate" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="7.066"/>
+  <testcase name="testfeechargesslider" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="1.702"/>
+  <testcase name="testfeechargestextbox" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.518"/>
+  <testcase name="testfeeslidercheck" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.936"/>
+  <testcase name="testinterestrateslider" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.554"/>
+  <testcase name="testinterestrateslidercheck" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="1.313"/>
+  <testcase name="testinterestratetextbox" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.382"/>
+  <testcase name="testloanamtslider" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.276"/>
+  <testcase name="testloanamtslidercheck" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.649"/>
+  <testcase name="testloanamttextbox" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.354"/>
+  <testcase name="testloantermslider" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.209"/>
+  <testcase name="testloantermslidercheck" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.775"/>
+  <testcase name="testloantermtextbox" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.565"/>
+  <testcase name="close" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.575"/>
+  <testcase name="endReport" classname="com.InterestAmount.Testcases.LoanEMIUICheckTestCases" time="0.248"/>
+  <testcase name="testloancalcnavigate" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="4.398"/>
+  <testcase name="TestFeeChargeSliderCheck" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="6.853"/>
+  <testcase name="TestFeechargesSlider" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.286"/>
+  <testcase name="TestFeechargesTextbox" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.355"/>
+  <testcase name="TestLoanTenureSlidercheck" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="10.754"/>
+  <testcase name="testEMIslider" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.192"/>
+  <testcase name="testEMIslidercheck" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="10.757"/>
+  <testcase name="testEMItextbox" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="1.462"/>
+  <testcase name="testinterestrateslider" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.167"/>
+  <testcase name="testinterestrateslidercheck" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="10.587"/>
+  <testcase name="testinterestratetextbox" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.204"/>
+  <testcase name="testloantermslider" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.149"/>
+  <testcase name="testloantermtextbox" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.19"/>
+  <testcase name="close" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.239"/>
+  <testcase name="endReport" classname="com.InterestAmount.Testcases.LoanAmountCalculatorUICheckTestcases" time="0.156"/>
+  <testcase name="openBrowsertestCase" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="15.168"/>
+  <testcase name="testloanTenurenavigate" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="7.475"/>
+  <testcase name="testEMItextbox" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.25"/>
+  <testcase name="testemislider" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="1.174"/>
+  <testcase name="testemislidercheck" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="9.034"/>
+  <testcase name="testfeechargesslider" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.216"/>
+  <testcase name="testfeechargestextbox" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.177"/>
+  <testcase name="testfeeslidercheck" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="10.548"/>
+  <testcase name="testinterestRatetextbox" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.801"/>
+  <testcase name="testloanAmountslider" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.13"/>
+  <testcase name="testloanAmountslidercheck" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="10.59"/>
+  <testcase name="testloanAmounttextbox" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.127"/>
+  <testcase name="testloantermslider" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.147"/>
+  <testcase name="testloantermslidercheck" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="10.605"/>
+  <testcase name="testclose" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.429"/>
+  <testcase name="testendReport" classname="com.InterestAmount.Testcases.LoanTenureCalculatorUICheckTestCases" time="0.273"/>
+</testsuite>
